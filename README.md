@@ -3,13 +3,11 @@
 ---
 # Hostel Operations & Management Analytics
 
-**Tools Used:** Excel, MySQL, Power BI
+**Tools Used:** Excel, Power BI
 
 [Datasets Used](./Hostel_Management_Dataset.xlsx)
 
-[SQL Analysis (Code)](./hostel_queries.sql)
-
-[Hostel Operations Dashboard - Power BI](./HostelPowerBi.pbix)
+[Hostel Operations Dashboard - Power BI](./HostelDetails.pbix)
 
 * **Business Problem:** These queries together help solve the major operational challenge of tracking room vacancies, recovering overdue fee payments, optimizing bed allocation across blocks, monitoring facility maintenance turnaround, and making data-backed decisions for hostel infrastructure planning.
 
