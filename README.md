@@ -1,9 +1,19 @@
 # 🏨 Hostel Operations & Executive Performance Analytics
 
-An executive-grade, 4-page Power BI business intelligence suite built to streamline residential housing operations. This solution bridges financial health, space utilization, and procurement overhead into a single source of truth—empowering administrators and facility managers to eliminate revenue leakage, manage bed capacity, and uncover critical cost drivers.
-
 ---
+# Hostel Operations & Management Analytics
 
+**Tools Used:** Excel, MySQL, Power BI
+
+[Datasets Used](./Hostel_Management_Dataset.xlsx)
+
+[SQL Analysis (Code)](./hostel_queries.sql)
+
+[Hostel Operations Dashboard - Power BI](./HostelPowerBi.pbix)
+
+* **Business Problem:** These queries together help solve the major operational challenge of tracking room vacancies, recovering overdue fee payments, optimizing bed allocation across blocks, monitoring facility maintenance turnaround, and making data-backed decisions for hostel infrastructure planning.
+
+  * **How I Plan On Solving the Problem:** In helping hostel management gather valuable insights from their operational data, I will be utilizing SQL and Power BI to extract relevant metrics and conduct insightful analyses. By leveraging SQL functions, CTEs, and window functions, I can uncover key metrics such as occupancy rates, revenue collection efficiency, fee defaulter patterns, and maintenance resolution delays. Once the data has been extracted and prepared, I will leverage Power BI to present the findings through a dynamic dashboard that enables users to delve into specific room categories, fee statuses, and operational expense trends.
 ## 📸 Executive Overview
 
 ![Executive Dashboard Overview](01_Executive_Overview.png)
